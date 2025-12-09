@@ -1,0 +1,5 @@
+{
+  "name": "NLP Prep Studio",
+  "description": "A professional, completely offline tool to preprocess text datasets for NLP models. Features multi-language support (English/Indonesian), regex cleaning, stemming, and dataset sanitization.",
+  "requestFramePermissions": []
+}
