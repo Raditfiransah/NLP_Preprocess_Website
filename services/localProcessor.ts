@@ -207,7 +207,7 @@ const SLANG_MAP_ID: Record<string, string> = {
   "blg": "bilang", 
   "mn": "mana", "dimana": "di mana", "dimn": "di mana",
   "cb": "coba", "cba": "coba",
-  "bs": "bisa", "bisa", "bisa",
+  "bs": "bisa",
   "mw": "mau", "mo": "mau",
   "lg": "lagi", "lgi": "lagi", 
   "ngapain": "sedang apa", 
